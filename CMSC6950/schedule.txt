@@ -6,4 +6,8 @@ HW5 will be posted soon
 HW4 will be due on November 15
 HW5 due date will be November 30
 Project will be posted soon
+<<<<<<< HEAD
 HW6 will be posted soon
+=======
+Project proposal submission will be due on October 17
+>>>>>>> fdedf0ae66e5383b4da81caf11a3f2372c3c27ce
